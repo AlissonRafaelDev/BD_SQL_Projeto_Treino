@@ -26,7 +26,7 @@ Este repositório contém a estrutura completa do banco de dados para o sistema 
 - [`docs/esquema.md`](/docs/esquema.md): Documentação detalhada dos campos (ex: tipos de dados, constraints).  
 
 ## 👨‍💻 Contribuições
-- **Desenvolvedor do BD**: [Alisson Rafael ]([https://github.com/AlissonRafaelDev]))  
+- **Desenvolvedor do BD**: [Alisson Rafael ]([https://github.com/AlissonRafaelDev])
   - Criação das tabelas e relações [Victor Hugo Fedatto]((https://github.com/vhfedatto))
   - Revisão e acompanhamento e ajustes [Alexandre Luna]
   - Normalização para evitar redundâncias  
